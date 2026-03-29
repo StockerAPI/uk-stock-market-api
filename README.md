@@ -47,7 +47,7 @@ This repository is designed to make United Kingdom market API coverage easier to
 
 ## Links
 
-- Website: https://kun.pro/markets/uk-stock-market-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
